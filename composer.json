@@ -1,0 +1,6 @@
+{
+    "name": "abdulsalam/guzzle",
+    "require": {
+        "guzzlehttp/guzzle": "^7.4"
+    }
+}
